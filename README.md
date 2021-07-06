@@ -1,6 +1,6 @@
 # sourcecode-for-a-bitcoin-mining-website
 this is a bse to a website that mines crypto on the computer of who ever visits the site and will only mine when on the site and this is a alternative source of income for website owners instead of putting ads 
-html file will be in the reposatory if you want to support me subscribe to my youtube channel It is Pranet Godavarty
+html file will be in the reposatory if you want to support me subscribe to my youtube channel It is Pranet Godavarty https://www.youtube.com/channel/UCk5TBXaIBvf5ZIj-DCXkV4g
 
 examaple website: https://cyrpt-website.pranetgodavarty.repl.co
 
